@@ -8,4 +8,4 @@ const sumOfMultiples = (limit, num1, num2) => {
   return sum
 }
 
-console.log(sumOfMultiples(1000,3,5))
+console.log(sumOfMultiples(1000,3,5)) //233168
