@@ -34,4 +34,4 @@ const pentagonNumbers = () => {
   return answer[0] - answer[1]
 }
 
-console.log(pentagonNumbers())
+console.log(pentagonNumbers()) //5482660
